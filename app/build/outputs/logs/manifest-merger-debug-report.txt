@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.1.1] /home/touza/.gradle/caches/transforms-3/db0b1c1ef85507f96018b0f92dd8f28b/transformed/material-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /home/touza/.gradle/caches/transforms-3/3acd648b159072040df0114ed052584b/transformed/navigation-compose-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/touza/.gradle/caches/transforms-3/9427fe581474d73c67e9867c0c3f92b3/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /home/touza/.gradle/caches/transforms-3/da189ce80d1d925232386a976f851782/transformed/material-ripple-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /home/touza/.gradle/caches/transforms-3/d5ddef3d1c0b3763d18ff1a9279afdee/transformed/foundation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/touza/.gradle/caches/transforms-3/b0b1a86dbe094ea7a3155f805219b814/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /home/touza/.gradle/caches/transforms-3/f10303d8fd03e3f095779b885da16ec6/transformed/material-icons-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /home/touza/.gradle/caches/transforms-3/10690f766aecb34f4db1b7ffc9d7abe2/transformed/foundation-layout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/touza/.gradle/caches/transforms-3/b71db05e4ccd7d237e4a529c2a7da46a/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/touza/.gradle/caches/transforms-3/0dfb35c2c2202094c7f848f3e3aad902/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/touza/.gradle/caches/transforms-3/747cdcadf9a3afd7f15d0174c9cd29db/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/touza/.gradle/caches/transforms-3/8d5d3970b916db844f7971374d92a7dd/transformed/ui-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/touza/.gradle/caches/transforms-3/f2c7915055f71008a73ef0e06438166b/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/touza/.gradle/caches/transforms-3/0d0950755274b8728f8d9f8ef67fd826/transformed/ui-text-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/touza/.gradle/caches/transforms-3/e0b9b6b24f93cb89d7a7888205f1c8e0/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/touza/.gradle/caches/transforms-3/6c526ed638f8774e7c83743f512dea51/transformed/ui-graphics-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/touza/.gradle/caches/transforms-3/26e34e1a4fdbc25fb009f28ed1d880d6/transformed/ui-unit-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/touza/.gradle/caches/transforms-3/70ca708149986c857388c5c72ee8fca9/transformed/ui-geometry-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/touza/.gradle/caches/transforms-3/3aaa19288c59fcfd724855661ccdd19b/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/4c005115a28aaa8a7dbe3d45f6122848/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/touza/.gradle/caches/transforms-3/d810b7adc053557309080127e204d4fb/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/dc20a429c3c0061f86d51e8733e527d4/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/touza/.gradle/caches/transforms-3/ede75eddb177e8bcf7d8bc9508f2be19/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/touza/.gradle/caches/transforms-3/b990f717efa556061fcdceac54bdca9d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/4fff9196a0c2de78262adc081a3e36ae/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/386c9957b918286d0bbdf314cebb92d2/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity:1.5.1] /home/touza/.gradle/caches/transforms-3/5517c5ada29aeb5a9c97ee513f95cd2c/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/touza/.gradle/caches/transforms-3/d5e55288da3c1483fd34363dd52dbeea/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/touza/.gradle/caches/transforms-3/b80a82baa3ddbdba794f16cae5afe528/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/touza/.gradle/caches/transforms-3/4d877244f8c056067c62fad963486826/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/touza/.gradle/caches/transforms-3/7320b5f1aa7bda8cd2d959fb2da9102e/transformed/ui-util-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/touza/.gradle/caches/transforms-3/73a6289e3c35c37fbd10d4ce97004706/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/touza/.gradle/caches/transforms-3/29e276182978cf435ef02003d6f30465/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/touza/.gradle/caches/transforms-3/c64c59252d289c1238067f9b9d933a7b/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/touza/.gradle/caches/transforms-3/d74e87064bfd887836ee81855101ad1f/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/touza/.gradle/caches/transforms-3/c0ed3b4b6300910df1fc7a93d3546726/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/touza/.gradle/caches/transforms-3/bb3496ae16cea282d522be0f7dbcf438/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/touza/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/touza/.gradle/caches/transforms-3/d5dc97a0444dfa066a55316220000c02/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/touza/.gradle/caches/transforms-3/601b00035553dc5cd715343410d12688/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/touza/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/touza/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:13:9-57
+	android:dataExtractionRules
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.sintel.infopharmaciemaroua.MainActivity
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:15:9-29:20
+	android:label
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:23:27-74
+meta-data#android.app.lib_name
+ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:26:13-28:36
+	android:value
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:28:17-33
+	android:name
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml:27:17-52
+uses-sdk
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /home/touza/.gradle/caches/transforms-3/db0b1c1ef85507f96018b0f92dd8f28b/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /home/touza/.gradle/caches/transforms-3/db0b1c1ef85507f96018b0f92dd8f28b/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /home/touza/.gradle/caches/transforms-3/3acd648b159072040df0114ed052584b/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.3] /home/touza/.gradle/caches/transforms-3/3acd648b159072040df0114ed052584b/transformed/navigation-compose-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/touza/.gradle/caches/transforms-3/9427fe581474d73c67e9867c0c3f92b3/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /home/touza/.gradle/caches/transforms-3/9427fe581474d73c67e9867c0c3f92b3/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /home/touza/.gradle/caches/transforms-3/da189ce80d1d925232386a976f851782/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /home/touza/.gradle/caches/transforms-3/da189ce80d1d925232386a976f851782/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /home/touza/.gradle/caches/transforms-3/d5ddef3d1c0b3763d18ff1a9279afdee/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /home/touza/.gradle/caches/transforms-3/d5ddef3d1c0b3763d18ff1a9279afdee/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/touza/.gradle/caches/transforms-3/b0b1a86dbe094ea7a3155f805219b814/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/touza/.gradle/caches/transforms-3/b0b1a86dbe094ea7a3155f805219b814/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /home/touza/.gradle/caches/transforms-3/f10303d8fd03e3f095779b885da16ec6/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /home/touza/.gradle/caches/transforms-3/f10303d8fd03e3f095779b885da16ec6/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /home/touza/.gradle/caches/transforms-3/10690f766aecb34f4db1b7ffc9d7abe2/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /home/touza/.gradle/caches/transforms-3/10690f766aecb34f4db1b7ffc9d7abe2/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/touza/.gradle/caches/transforms-3/b71db05e4ccd7d237e4a529c2a7da46a/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/touza/.gradle/caches/transforms-3/b71db05e4ccd7d237e4a529c2a7da46a/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/touza/.gradle/caches/transforms-3/0dfb35c2c2202094c7f848f3e3aad902/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /home/touza/.gradle/caches/transforms-3/0dfb35c2c2202094c7f848f3e3aad902/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/touza/.gradle/caches/transforms-3/747cdcadf9a3afd7f15d0174c9cd29db/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/touza/.gradle/caches/transforms-3/747cdcadf9a3afd7f15d0174c9cd29db/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/touza/.gradle/caches/transforms-3/8d5d3970b916db844f7971374d92a7dd/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /home/touza/.gradle/caches/transforms-3/8d5d3970b916db844f7971374d92a7dd/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/touza/.gradle/caches/transforms-3/f2c7915055f71008a73ef0e06438166b/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /home/touza/.gradle/caches/transforms-3/f2c7915055f71008a73ef0e06438166b/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/touza/.gradle/caches/transforms-3/0d0950755274b8728f8d9f8ef67fd826/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /home/touza/.gradle/caches/transforms-3/0d0950755274b8728f8d9f8ef67fd826/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/touza/.gradle/caches/transforms-3/e0b9b6b24f93cb89d7a7888205f1c8e0/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/touza/.gradle/caches/transforms-3/e0b9b6b24f93cb89d7a7888205f1c8e0/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/touza/.gradle/caches/transforms-3/6c526ed638f8774e7c83743f512dea51/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /home/touza/.gradle/caches/transforms-3/6c526ed638f8774e7c83743f512dea51/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/touza/.gradle/caches/transforms-3/26e34e1a4fdbc25fb009f28ed1d880d6/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /home/touza/.gradle/caches/transforms-3/26e34e1a4fdbc25fb009f28ed1d880d6/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/touza/.gradle/caches/transforms-3/70ca708149986c857388c5c72ee8fca9/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /home/touza/.gradle/caches/transforms-3/70ca708149986c857388c5c72ee8fca9/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/touza/.gradle/caches/transforms-3/3aaa19288c59fcfd724855661ccdd19b/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /home/touza/.gradle/caches/transforms-3/3aaa19288c59fcfd724855661ccdd19b/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/4c005115a28aaa8a7dbe3d45f6122848/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/4c005115a28aaa8a7dbe3d45f6122848/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/touza/.gradle/caches/transforms-3/d810b7adc053557309080127e204d4fb/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/touza/.gradle/caches/transforms-3/d810b7adc053557309080127e204d4fb/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/dc20a429c3c0061f86d51e8733e527d4/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/touza/.gradle/caches/transforms-3/dc20a429c3c0061f86d51e8733e527d4/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/touza/.gradle/caches/transforms-3/ede75eddb177e8bcf7d8bc9508f2be19/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/touza/.gradle/caches/transforms-3/ede75eddb177e8bcf7d8bc9508f2be19/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/touza/.gradle/caches/transforms-3/b990f717efa556061fcdceac54bdca9d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/touza/.gradle/caches/transforms-3/b990f717efa556061fcdceac54bdca9d/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/4fff9196a0c2de78262adc081a3e36ae/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/4fff9196a0c2de78262adc081a3e36ae/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/386c9957b918286d0bbdf314cebb92d2/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/touza/.gradle/caches/transforms-3/386c9957b918286d0bbdf314cebb92d2/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/touza/.gradle/caches/transforms-3/5517c5ada29aeb5a9c97ee513f95cd2c/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/touza/.gradle/caches/transforms-3/5517c5ada29aeb5a9c97ee513f95cd2c/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/touza/.gradle/caches/transforms-3/d5e55288da3c1483fd34363dd52dbeea/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/touza/.gradle/caches/transforms-3/d5e55288da3c1483fd34363dd52dbeea/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/touza/.gradle/caches/transforms-3/b80a82baa3ddbdba794f16cae5afe528/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/touza/.gradle/caches/transforms-3/b80a82baa3ddbdba794f16cae5afe528/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/touza/.gradle/caches/transforms-3/4d877244f8c056067c62fad963486826/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/touza/.gradle/caches/transforms-3/4d877244f8c056067c62fad963486826/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/touza/.gradle/caches/transforms-3/7320b5f1aa7bda8cd2d959fb2da9102e/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /home/touza/.gradle/caches/transforms-3/7320b5f1aa7bda8cd2d959fb2da9102e/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/touza/.gradle/caches/transforms-3/73a6289e3c35c37fbd10d4ce97004706/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/touza/.gradle/caches/transforms-3/73a6289e3c35c37fbd10d4ce97004706/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/touza/.gradle/caches/transforms-3/29e276182978cf435ef02003d6f30465/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/touza/.gradle/caches/transforms-3/29e276182978cf435ef02003d6f30465/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/touza/.gradle/caches/transforms-3/c64c59252d289c1238067f9b9d933a7b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/touza/.gradle/caches/transforms-3/c64c59252d289c1238067f9b9d933a7b/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/touza/.gradle/caches/transforms-3/f6a12936ecbbfb86057ffa1eb980a294/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/touza/.gradle/caches/transforms-3/d74e87064bfd887836ee81855101ad1f/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/touza/.gradle/caches/transforms-3/d74e87064bfd887836ee81855101ad1f/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/touza/.gradle/caches/transforms-3/c0ed3b4b6300910df1fc7a93d3546726/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/touza/.gradle/caches/transforms-3/c0ed3b4b6300910df1fc7a93d3546726/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/touza/.gradle/caches/transforms-3/bb3496ae16cea282d522be0f7dbcf438/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/touza/.gradle/caches/transforms-3/bb3496ae16cea282d522be0f7dbcf438/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/touza/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/touza/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/touza/.gradle/caches/transforms-3/d5dc97a0444dfa066a55316220000c02/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/touza/.gradle/caches/transforms-3/d5dc97a0444dfa066a55316220000c02/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/touza/.gradle/caches/transforms-3/601b00035553dc5cd715343410d12688/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/touza/.gradle/caches/transforms-3/601b00035553dc5cd715343410d12688/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		ADDED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+		INJECTED from /home/touza/Documents/GitHub/Pharmacie-Info/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /home/touza/.gradle/caches/transforms-3/5203297084e57ffb9f94571a20ff8f2b/transformed/ui-tooling-1.1.1/AndroidManifest.xml:26:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /home/touza/.gradle/caches/transforms-3/b44f2e4f1d45b4060c6ebe524b35bff6/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:26:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/touza/.gradle/caches/transforms-3/5785e2bd253743983765e138bae06908/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /home/touza/.gradle/caches/transforms-3/a1e7f5a712ef2321f6d771302bda0d55/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:25-88
