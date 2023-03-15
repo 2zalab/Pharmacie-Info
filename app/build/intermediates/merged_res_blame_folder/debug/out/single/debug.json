@@ -1,74 +1,126 @@
 [
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharma2.jpg.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharma2.jpg"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-46:/drawable_login_image.jpg.flat",
-        "source": "com.sintel.infopharmaciemaroua.app-main-48:/drawable/login_image.jpg"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/drawable_logo_pharmacie.png.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/drawable/logo_pharmacie.png"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/xml/backup_rules.xml"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/drawable/ic_launcher_background.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharmacie_list.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharmacie_list.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_image_pharmacie.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/image_pharmacie.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/xml_data_extraction_rules.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/xml/data_extraction_rules.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharma3.jpeg.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharma3.jpeg"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/xml_backup_rules.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/xml/backup_rules.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharmacie_icone.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharmacie_icone.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/touza/.gradle/daemon/7.4/com.sintel.infopharmaciemaroua.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharma1.jpg.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharma1.jpg"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_logo_pharmacie.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/logo_pharmacie.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_to_pharma.jpg.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/to_pharma.jpg"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_login_image.jpg.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/login_image.jpg"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_create_account.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/create_account.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-debug-56:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_ic_pharma.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/ic_pharma.png"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sintel.infopharmaciemaroua.app-merged_res-55:/drawable_pharmacie.png.flat",
+        "source": "com.sintel.infopharmaciemaroua.app-main-57:/drawable/pharmacie.png"
     }
 ]

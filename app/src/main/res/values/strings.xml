@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Info Pharmacie Maroua</string>
+    <string name="app_description" >
+        - Une application d\'actualités sur la pharmacie de garde est une application mobile conçue pour fournir aux utilisateurs des informations à jour sur les pharmacies de garde dans la ville de Maroua. Cette application permettrait aux utilisateurs de rechercher et de localiser facilement les pharmacies de garde les plus proches, ainsi que de recevoir des notifications en temps réel sur les horaires d\'ouverture et les changements de garde.\n \n
+        - L\'application pourrait également offrir des informations détaillées sur chaque pharmacie de garde, notamment les numéros de téléphone, les adresses, les services proposés et les horaires d\'ouverture réguliers. Les utilisateurs pourraient également consulter les commentaires et les évaluations d\'autres utilisateurs pour aider à choisir la pharmacie la plus appropriée pour leurs besoins. \n \n
+        - En plus de fournir des informations sur les pharmacies de garde, l\'application pourrait également inclure des actualités et des mises à jour sur les médicaments, les traitements et les nouvelles découvertes dans le domaine de la pharmacie. Cela permettrait aux utilisateurs de rester informés et de se tenir au courant des dernières avancées dans le domaine de la santé.
+    </string>
+</resources>

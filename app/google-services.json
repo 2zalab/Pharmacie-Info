@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "337344735935",
+    "project_id": "pharmacieinfo237",
+    "storage_bucket": "pharmacieinfo237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337344735935:android:5e52609b1b7278289e740a",
+        "android_client_info": {
+          "package_name": "com.sintel.infopharmaciemaroua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337344735935-f6207fj41ae8a3l4mkj2g8i68ic25r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlvqB19ZGg-Q79yCXKXDFNBFGJbGyrIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337344735935-f6207fj41ae8a3l4mkj2g8i68ic25r4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337344735935:android:0993f8bc9f7b34359e740a",
+        "android_client_info": {
+          "package_name": "com.sintel.infopharmaciemaroua.Screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337344735935-i5gh929b1n05q6g7iqe00um0ueasf4jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sintel.infopharmaciemaroua.Screen",
+            "certificate_hash": "3586ced3fd32cfe5e0be4dab8a388aa918ae92e1"
+          }
+        },
+        {
+          "client_id": "337344735935-f6207fj41ae8a3l4mkj2g8i68ic25r4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlvqB19ZGg-Q79yCXKXDFNBFGJbGyrIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337344735935-f6207fj41ae8a3l4mkj2g8i68ic25r4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
