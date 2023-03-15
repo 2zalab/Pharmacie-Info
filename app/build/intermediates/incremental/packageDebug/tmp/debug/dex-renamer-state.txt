@@ -1,0 +1,25 @@
+#Fri Mar 10 12:31:04 WAT 2023
+path.4=5/classes.dex
+path.3=4/classes.dex
+path.2=3/classes.dex
+path.1=0/classes.dex
+path.7=classes3.dex
+path.6=classes2.dex
+path.5=6/classes.dex
+path.0=classes.dex
+base.4=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+base.3=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.2=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+base.1=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.7=classes8.dex
+renamed.6=classes7.dex
+base.7=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex
+renamed.5=classes6.dex
+base.6=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
+renamed.4=classes5.dex
+base.5=/home/touza/AndroidStudioProjects/InfoPharmacieMaroua/app/build/intermediates/dex/debug/mergeProjectDexDebug/6/classes.dex
